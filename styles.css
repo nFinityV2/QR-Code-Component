@@ -87,7 +87,7 @@ body {
 }
 
 p {
-    font-size: 15px;
+    font-size: 0.9rem;
 }
 
 .qr-card {
@@ -97,6 +97,7 @@ p {
     background-color: #FFFFFF;
     border: none;
     border-radius: 10px;
+    box-shadow: 5px 5px 15px 5px rgb(0 0 0 / 3%);
 }
 
 .qr-code {
@@ -111,7 +112,7 @@ p {
 
 .qr-title {
     color: hsl(218, 44%, 22%);
-    font-size: 20px;
+    font-size: 1.2rem;
     font-weight: 700;
 }
 
